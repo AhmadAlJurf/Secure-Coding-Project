@@ -28,6 +28,7 @@ _____________________________________________________
 
 Security Requirments:
 I wished to apply security ascpets in this code that protects from the following (and I successfully did!):
+
 •	Buffer Overflow
 •	Strong Password
 •	Encryption
