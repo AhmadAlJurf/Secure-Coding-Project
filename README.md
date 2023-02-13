@@ -45,4 +45,14 @@ I wished to apply security ascpets in this code that protects from the following
 •	Prepared Statements
 • Starting a session
 
+_____________________________________________________
+
+# Screenshots of the applied security measures in my website:
+(Note: Due to privacy reasons I am unable to share my code publicly where I applied all of the mentioned principles, but if you are a recuriter who is curious to understand my process, please dont hesistate in reaching out to me on ahmadaljurf1234@gmail.com for more snippets of the code)
+
+![Github Images (3)](https://user-images.githubusercontent.com/95411800/218391277-e53daacc-d6b7-4fb8-ba4a-2695fdd7d289.png)
+![Github Images (4)](https://user-images.githubusercontent.com/95411800/218391287-71ab2ccb-48a0-43fa-8313-5a91ed583774.png)
+![Github Images (5)](https://user-images.githubusercontent.com/95411800/218391292-0964ada4-143d-47e6-8244-77a4383dd659.png)
+
+_____________________________________________________
 
