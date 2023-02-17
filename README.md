@@ -4,7 +4,7 @@ _____________________________________________________
 # Project Description
 This project is my first time experimenting with secure coding principles, and it was a blast! I had so much fun venturing into the cyber security side of my studies in HTU in this class.
 
-This project was a part of my final project for my (Secure Coding) class, wehre we learned more about the security principles that can be applied in buidling softwares and maintaning them, for our final project we were given the freedom to choose our own way of expressing what we learned via following certain requirments ofcourse, therefore I choose to build a website that followed all of the security principles that I wished to discover and apply
+This project was a part of my final project for my (Secure Coding) class, where we learned more about the security principles that can be applied in buidling softwares and maintaning them, for our final project we were given the freedom to choose our own way of expressing what we learned via following certain requirments ofcourse, therefore I choose to build a website that followed all of the security principles that I wished to discover and apply
 
 ![Secure Coding Project (1)](https://user-images.githubusercontent.com/95411800/218384346-3cf39a20-de2c-496d-a094-584d3144ead6.png)
 
